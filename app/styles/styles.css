@@ -1,0 +1,13 @@
+/* styles.css */
+.navbar {
+    background-color: #FF5733; /* Cambia el color del navbar a un color naranja */
+  }
+  
+  .navbar .nav-link {
+    color: white; /* Cambia el color de los enlaces a blanco */
+  }
+  
+  .navbar .nav-link:hover {
+    color: #FFD700; /* Cambia el color del enlace al pasar el ratón */
+  }
+  
